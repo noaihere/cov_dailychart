@@ -1,11 +1,10 @@
 metric,value,category,category_1
-additional,942,today total,
+additional,596,today total,
 Imported,0,today total,additional
-community,22,today total,additional
-outside dormitories,27,today total,additional
-in dormitories,893,today total,additional
-known clusters,79,known clusters,
-previously unlinked,517,previously unlinked,
-discharged,38,discharged,
-fully recovered,740,fully recovered,
-critical condition,23,critical condition,
+community,30,today total,additional
+outside dormitories,22,today total,additional
+in dormitories,544,today total,additional
+known clusters,68,known clusters,
+discharged,26,discharged,
+fully recovered,768,fully recovered,
+critical condition,22,critical condition,
